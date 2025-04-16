@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MangaVerseTest</string>
+
+    <!-- Manage Screen-->
+    <string name="loadingMore">Loading more...</string>
+    <string name="loadingManga">Loading manga...</string>
+    <string name="somethingWentWrong">Something went wrong</string>
+
+    <!-- Login Screen -->
+    <string name="welcomeLoginDesc">Hello,\nWelcome to the login page</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="userEmptyValidation">Username cannot be empty</string>
+    <string name="passwordEmptyValidation">Password cannot be empty</string>
+    <string name="login">Login</string>
+
+
+    <!-- Face Screen-->
+    <string name="cameraPermissionDenied">Camera permission denied.</string>
+    <string name="cameraEnableInSettings">Please enable camera permission from settings.</string>
+
+</resources>
